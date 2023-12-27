@@ -20,3 +20,6 @@ x = int(input('enter the number :'))
 y = int(input('enter the number :'))
 
 print(f'the sum is {x+y}')
+
+
+print('print the values to stream ,or to sys.stdout by default sep\nstring inserted between valus ')
