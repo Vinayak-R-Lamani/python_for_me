@@ -1,0 +1,15 @@
+global variables and local variables
+
+Python global variables are those which are not defined insede any 
+function and have a global scope wherease python local variables are those which are defined in th 
+function only that only access for that function only
+
+
+packing and unpacking 
+
+packing :
+    the converting the multiple values in the single values
+
+unpacking :
+    the extracting values from single objects
+    
